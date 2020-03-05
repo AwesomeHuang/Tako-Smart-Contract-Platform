@@ -1,4 +1,4 @@
-# Near Hackathon Update
+# Tako-Smart-Contract-Platform
 
 ## 项目简介
 
